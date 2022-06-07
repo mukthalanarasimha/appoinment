@@ -1,0 +1,25 @@
+.bg_container {
+  background-image: linear-gradient(#fbc7d4, #9796f0);
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.min_container {
+  background-color: #ffffff;
+  height: 1000px;
+  width: 1000px;
+  border-radius: 20px;
+  padding: 20px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 300px;
+}
+.form_image_container {
+  display: flex;
+}

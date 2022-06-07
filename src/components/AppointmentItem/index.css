@@ -1,0 +1,21 @@
+.bg_container_appointment {
+  height: 200px;
+  width: 600px;
+  border-color: black;
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  padding: 10px;
+}
+.min_container_appointment {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  font-family: 'roboto';
+  font-weight: bold;
+  color: black;
+}
+.date_and_time {
+  color: #b5b7c4;
+}
